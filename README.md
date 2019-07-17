@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Number and name of feature: city-explorer-react components and forms
+
+Estimate of time needed to complete: 3hrs
+
+Start time: 10:00am
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
 ## Available Scripts
 
 In the project directory, you can run:
