@@ -1,14 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Number and name of feature: SCSS Integration & Refactoring
+
+Estimate of time needed to complete: 5hrs.
+
+Start time: 9:30am
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
 Number and name of feature: city-explorer-react components and forms
 
 Estimate of time needed to complete: 3hrs
 
 Start time: 10:00am
 
-Finish time: _____
+Finish time: did not finish
 
-Actual time needed to complete: _____
+Actual time needed to complete: more than 3 hrs.
 
 ## Available Scripts
 
